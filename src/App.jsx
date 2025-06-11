@@ -5,7 +5,7 @@ import Dashboard from "./components/Dashboard";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import ParamComp from "./components/ParamComp";
-import MockTests from "./components/Mock"; // ✅ correct import
+import MockTests from "./components/Mock";
 import Courses from "./components/Courses";
 import Reports from "./components/Reports";
 
